@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Passthru.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e48f4ec5527bfad4486ad993dc6988b8, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bf0c02cb5c525064889ed6e711711eb4, type: 2}
